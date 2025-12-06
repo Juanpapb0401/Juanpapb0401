@@ -16,7 +16,7 @@
 ##  About Me
 
 🔹 **2+ years** of experience building scalable web applications  
-🔹 Specialized in **Java, Node.js, SQL and Python**
+🔹 Specialized in **Java, Node.js, SQL and Python**              
 🔹 Strong focus on **clean code, testing, and documentation**  
 🔹 Passionate about solving complex problems and delivering user-centric solutions  
 🔹 Based in **Colombia** 
