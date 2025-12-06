@@ -74,6 +74,6 @@
 
 ## Let's Connect!
 
-📧 **Email**: [your.email@example.com](mailto:e5jparra@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/juan-pablo-parra-9b571624b)  
+📧 **Email**: [e5jparra@gmail.com](mailto:e5jparra@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/juan-pablo-parra-9b571624b](https://www.linkedin.com/in/juan-pablo-parra-9b571624b)  
 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
