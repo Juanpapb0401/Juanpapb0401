@@ -74,4 +74,4 @@
 
 📧 **Email**: [e5jparra@gmail.com](mailto:e5jparra@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/juan-pablo-parra-9b571624b](https://www.linkedin.com/in/juan-pablo-parra-9b571624b)  
-🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
+🌐 **Portfolio**: [https://juan-pablo-parra.vercel.app/]([https://yourportfolio.com](https://juan-pablo-parra.vercel.app/))  
